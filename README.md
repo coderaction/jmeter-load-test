@@ -24,7 +24,9 @@ Asagida ki apiler icin bir test plani olusturuyorum
 
 
 
-Adim 1 - Test planına sağ tıklayın ve Add> Threads (Users)> Thread Group'u seçin. Bir test planında en az 1 Konu Grubu olmalıdır.
+##Adim 1
+
+Test planına sağ tıklayın ve Add> Threads (Users)> Thread Group'u seçin. Bir test planında en az 1 Konu Grubu olmalıdır.
 
 [![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/jmeter-add-plan.png)](https://nodesource.com/products/nsolid)
 
@@ -41,3 +43,12 @@ Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz
 2 - Ramp-Up period (in seconds) Bunu tanimladigimizda maximum kullaniciya (1.de tanimladigimiz degere) kac saniye de ulasmak istedigini belirtmis oldugun alan oluyor
 
 3 - Scheduler Configuration alaninda testin kac kez veya ne kadar sureyle calistirmak isteediginizi belirttiginiz bir alan bulunuyor 
+
+##Adim 2
+
+Neyin test edileceğini belirleyelim. ThreadGroup'a sağ tıklayın ve Add> Config Elements> HTTP Request Defaults seçeneğini seçin
+
+
+[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/httprequestdefaukt.png)](https://nodesource.com/products/nsolid)
+
+
