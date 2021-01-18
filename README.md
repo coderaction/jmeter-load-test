@@ -9,6 +9,10 @@ Birim ve entegrasyon testleri kodun islevsel olarak dogru olmasini saglarken, yu
 - Ilgili repodan ornek kodlari clone'layip testleri gerceklestirebiliriz
 
 
+## Apache Jmeter ile Test Plani olusturalim
+
+Asagida ki apiler icin bir test plani olusturuyorum
+
 
 | Url | Type |
 | ------ | ------ |
@@ -17,3 +21,7 @@ Birim ve entegrasyon testleri kodun islevsel olarak dogru olmasini saglarken, yu
 | http://localhost:8080/students/id | [GET] Get student by id |
 | http://localhost:8080/students/id | [GET] Get student by id |
 | http://localhost:8080/students/id | [GET] Get student by id |
+
+
+
+Adim 1 - Test planına sağ tıklayın ve Add> Threads (Users)> Thread Group'u seçin. Bir test planında en az 1 Konu Grubu olmalıdır.
