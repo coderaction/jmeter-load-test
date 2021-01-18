@@ -25,3 +25,5 @@ Asagida ki apiler icin bir test plani olusturuyorum
 
 
 Adim 1 - Test planına sağ tıklayın ve Add> Threads (Users)> Thread Group'u seçin. Bir test planında en az 1 Konu Grubu olmalıdır.
+
+[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/jmeter-add-plan.png)](https://nodesource.com/products/nsolid)
