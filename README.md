@@ -28,7 +28,7 @@ Asagida ki apiler icin bir test plani olusturuyorum
 
 Test planına sağ tıklayın ve Add> Threads (Users)> Thread Group'u seçin. Bir test planında en az 1 Konu Grubu olmalıdır.
 
-[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/jmeter-add-plan.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/thread%20group.png?raw=true)](https://nodesource.com/products/nsolid)
 
 Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz 
 
@@ -46,8 +46,7 @@ Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz
 
 ## Adim 2
 
-Neyin test edileceğini belirleyelim. ThreadGroup'a sağ tıklayın ve Add> Config Elements> HTTP Request Defaults seçeneğini seçin
-
+Neyin test edileceğini belirleyelim. ThreadGroup'a sağ tıklayın ve asagida ki islemi yapin. Yapilan bu islem sanki istegin kullanicidan gelmis gibi davranmasidir
 
 [![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/httprequestdefaukt.png)](https://nodesource.com/products/nsolid)
 
