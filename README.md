@@ -24,7 +24,7 @@ Asagida ki apiler icin bir test plani olusturuyorum
 
 
 
-##Adim 1
+## Adim 1
 
 Test planına sağ tıklayın ve Add> Threads (Users)> Thread Group'u seçin. Bir test planında en az 1 Konu Grubu olmalıdır.
 
@@ -44,7 +44,7 @@ Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz
 
 3 - Scheduler Configuration alaninda testin kac kez veya ne kadar sureyle calistirmak isteediginizi belirttiginiz bir alan bulunuyor 
 
-##Adim 2
+## Adim 2
 
 Neyin test edileceğini belirleyelim. ThreadGroup'a sağ tıklayın ve Add> Config Elements> HTTP Request Defaults seçeneğini seçin
 
