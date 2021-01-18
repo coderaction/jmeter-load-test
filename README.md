@@ -33,3 +33,9 @@ Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz
 
 [![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/jmater-thread-group.png)](https://nodesource.com/products/nsolid)
 
+
+1 - Number of Threads(users) 50 kullanici olsun ve sisteme surekli olarak req gondersin 
+
+> tekrar tekrar request gonderimi ancak bir once ki requestin responsu geldiginde gerceklesir
+
+2 - 
