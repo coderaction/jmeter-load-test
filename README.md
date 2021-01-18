@@ -38,4 +38,6 @@ Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz
 
 > tekrar tekrar request gonderimi ancak bir once ki requestin responsu geldiginde gerceklesir
 
-2 - 
+2 - Ramp-Up period (in seconds) Bunu tanimladigimizda maximum kullaniciya (1.de tanimladigimiz degere) kac saniye de ulasmak istedigini belirtmis oldugun alan oluyor
+
+3 - Scheduler Configuration alaninda testin kac kez veya ne kadar sureyle calistirmak isteediginizi belirttiginiz bir alan bulunuyor 
