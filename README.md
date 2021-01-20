@@ -14,14 +14,6 @@ Birim ve entegrasyon testleri kodun islevsel olarak dogru olmasini saglarken, yu
 Asagida ki apiler icin bir test plani olusturuyorum
 
 
-| Url | Type |
-| ------ | ------ |
-| http://localhost:8080/students/list | [GET] List students |
-| http://localhost:8080/students/id | [GET] Get student by id |
-| http://localhost:8080/students/id | [GET] Get student by id |
-| http://localhost:8080/students/id | [GET] Get student by id |
-| http://localhost:8080/students/id | [GET] Get student by id |
-
 
 
 ## Adim 1
