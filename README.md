@@ -40,6 +40,23 @@ Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz
 
 Neyin test edileceğini belirleyelim. ThreadGroup'a sağ tıklayın ve asagida ki islemi yapin. Yapilan bu islem sanki istegin kullanicidan gelmis gibi davranmasidir
 
-[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/httprequestdefaukt.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/http-request.png)](https://nodesource.com/products/nsolid)
+
+## Adim 3 
+
+Artik bir api'ye post atma islemine gecebiliriz. Oncelikle asagida ki adimi uygulayalim;
+
+[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/login-jmeter.png)](https://nodesource.com/products/nsolid)
+
+> burada onemli adimlardan birisi base url ile istek atilacak endpoint adresini ayirmaniz. Ornek vermem gerekirse 
+
+https://www.milliyet.com.tr/pembenar/ bir endpoint'e get isteginde bulunmak istiyorsunuz 
+
+Server Name or Ip: www.milliyet.com.tr 
+Path Alanina: /pembenar
+
+olarak yazmaniz gerekiyor 
+
+
 
 
