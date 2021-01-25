@@ -40,7 +40,7 @@ Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz
 
 Neyin test edileceğini belirleyelim. ThreadGroup'a sağ tıklayın ve asagida ki islemi yapin. Yapilan bu islem sanki istegin kullanicidan gelmis gibi davranmasidir
 
-[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/http-request.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/jmater-thread-group.png)](https://nodesource.com/products/nsolid)
 
 ## Adim 3 
 
