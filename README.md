@@ -26,7 +26,7 @@ Simdi adim adim bir endpoint'e post atmayi deneyelim...
 
 Test planına sağ tıklayın ve Add> Threads (Users)> Thread Group'u seçin. Bir test planında en az 1 Konu Grubu olmalıdır.
 
-[![N|](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/thread%20group.png?raw=true)]
+[![](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/thread%20group.png?raw=true)]()
 
 Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz 
 
