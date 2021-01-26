@@ -46,7 +46,7 @@ Neyin test edileceğini belirleyelim. ThreadGroup'a sağ tıklayın ve asagida k
 
 Artik bir api'ye post atma islemine gecebiliriz. Oncelikle http requeset page olusturmamiz gerekiyor,
 
-[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/http-request.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/httpRequesetJmeter.png)](https://nodesource.com/products/nsolid)
 
  Olusturmus oldugumuz http request uzerinden artik post islemleri gerceklestirebiliriz
  burada onemli adimlardan birisi base url ile istek atilacak endpoint adresini ayirmaniz. Ornek vermem gerekirse 
