@@ -11,7 +11,7 @@ Birim ve entegrasyon testleri kodun islevsel olarak dogru olmasini saglarken, yu
 
 ## Apache Jmeter ile Test Plani olusturalim
 
-Asagida ki apiler icin bir test plani olusturuyorum
+Simdi adim adim bir endpoint'e post atmayi deneyelim...
 
 
 
