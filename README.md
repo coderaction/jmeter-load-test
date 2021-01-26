@@ -44,11 +44,12 @@ Neyin test edileceğini belirleyelim. ThreadGroup'a sağ tıklayın ve asagida k
 
 ## Adim 3 
 
-Artik bir api'ye post atma islemine gecebiliriz. Oncelikle http requeset page olusturmamiz gerekiyor, olusturmus oldugumuz http request uzerinden artik post islemleri gerceklestirebiliriz
+Artik bir api'ye post atma islemine gecebiliriz. Oncelikle http requeset page olusturmamiz gerekiyor,
 
 [![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/http-request.png)](https://nodesource.com/products/nsolid)
 
-> burada onemli adimlardan birisi base url ile istek atilacak endpoint adresini ayirmaniz. Ornek vermem gerekirse 
+ Olusturmus oldugumuz http request uzerinden artik post islemleri gerceklestirebiliriz
+ burada onemli adimlardan birisi base url ile istek atilacak endpoint adresini ayirmaniz. Ornek vermem gerekirse 
 
 https://www.milliyet.com.tr/pembenar/ bir endpoint'e get isteginde bulunmak istiyorsunuz 
 
