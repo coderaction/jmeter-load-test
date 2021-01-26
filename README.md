@@ -56,10 +56,23 @@ https://www.milliyet.com.tr/pembenar/ bir endpoint'e get isteginde bulunmak isti
 Server Name or Ip: www.milliyet.com.tr 
 Path Alanina: /pembenar
 
-olarak yazmaniz gerekiyor 
+olarak yazmaniz gerekiyor ornek olarak 
 
+[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/http-request.png)](https://nodesource.com/products/nsolid)
 
+Eğer benim gibi Body JSON gönderiyorsanız. Test Plan >Add > Config Element > HTTP Header Manager oluşturup “Content-Type” olarak application/json girin.
 
+[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/httpheadermanager.png)](https://nodesource.com/products/nsolid)
+
+[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/httpHeaderManagercontentType.png)](https://nodesource.com/products/nsolid)
+
+## Adim 4 
+
+Artik islemlerimiz tamam requeest gonderip responslari alabilirz, responslari alip analiz edebilmemiz icin Thread Group Listener’lar eklememiz gerekiyor.
+
+- Aggregate Graph
+- View Result in Table
+- View Results Tree gibi…
 
 
 
