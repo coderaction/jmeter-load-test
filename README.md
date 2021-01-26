@@ -1,3 +1,9 @@
+# Bu yazi dizisi 3 bolumden olusmaktadir
+
+- Jmeter nasil calistirilir ?
+- Jmeter bir endpoint'e nasil istek gonderilir?
+- Jmeter Auth token kullanilan bir endpointte token alinip diger apilere nasil otomatik bir sekilde verilir?  
+
 # Load Test Nedir neden kullaniriz ?
 
 Birim ve entegrasyon testleri kodun islevsel olarak dogru olmasini saglarken, yuk testi de ayni derecede onemli olan performansini olcer.Kodda ki darbagozin nerede oldugunu, uygulamanin verimli bir sekilde olceklenmesini, uygulamanin yanit verme suresinin ve veriminin ne oldugunu yuk testlerinde gorebiliriz.
@@ -20,7 +26,7 @@ Simdi adim adim bir endpoint'e post atmayi deneyelim...
 
 Test planına sağ tıklayın ve Add> Threads (Users)> Thread Group'u seçin. Bir test planında en az 1 Konu Grubu olmalıdır.
 
-[![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/thread%20group.png?raw=true)](https://nodesource.com/products/nsolid)
+(https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/thread%20group.png?raw=true)]
 
 Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz 
 
@@ -75,6 +81,10 @@ Artik islemlerimiz tamam requeest gonderip responslari alabilirz, responslari al
 - View Results Tree gibi…
 
 > bu repo icerisinde bulunan jmx uzantili dosya aslinda yukari da hazirlamis oldugumuz yapinin kaydedilmis halidir, sizde jmter'i calistirip open diyerek bu dosyayi acabilir dogrudan kullanabilirsiniz.
+
+### Todos
+ - Thread Group Listener tiplerini bir arkadas anlatabilirse sevinicem.
+ - Online bir endpoint bulunup (ibb endpointleri olur) jmx dosyasi duzenlenebilir
 
 
 
