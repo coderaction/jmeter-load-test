@@ -74,5 +74,7 @@ Artik islemlerimiz tamam requeest gonderip responslari alabilirz, responslari al
 - View Result in Table
 - View Results Tree gibi…
 
+> bu repo icerisinde bulunan jmx uzantili dosya aslinda yukari da hazirlamis oldugumuz yapinin kaydedilmis halidir, sizde jmter'i calistirip open diyerek bu dosyayi acabilir dogrudan kullanabilirsiniz.
+
 
 
