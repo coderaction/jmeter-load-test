@@ -44,7 +44,7 @@ Neyin test edileceğini belirleyelim. ThreadGroup'a sağ tıklayın ve asagida k
 
 ## Adim 3 
 
-Artik bir api'ye post atma islemine gecebiliriz. Oncelikle asagida ki adimi uygulayalim;
+Artik bir api'ye post atma islemine gecebiliriz. Oncelikle http requeset page olusturmamiz gerekiyor, olusturmus oldugumuz http request uzerinden artik post islemleri gerceklestirebiliriz
 
 [![N|Solid](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/http-request.png)](https://nodesource.com/products/nsolid)
 
@@ -56,6 +56,8 @@ Server Name or Ip: www.milliyet.com.tr
 Path Alanina: /pembenar
 
 olarak yazmaniz gerekiyor 
+
+
 
 
 
