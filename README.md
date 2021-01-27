@@ -27,9 +27,13 @@ Daha sonra asagida ki gibi bir gorsel ile karsilasacaksiniz
 
 1 - Number of Threads(users) 50 kullanici olsun ve sisteme surekli olarak req gondersin 
 
+> Number of Threads (users): Hedef server’a bağlanan kullanıcı veya bağlantı sayısını simüle eder. Örneğin; Number of Threads (users) 1000 olarak ayarlarsak; JMeter, test edilen hedef server’a 1000 kullanıcı isteği oluşturacak ve simüle edecektir.
+
 > tekrar tekrar request gonderimi ancak bir once ki requestin responsu geldiginde gerceklesir
 
 2 - Ramp-Up period (in seconds) Bunu tanimladigimizda maximum kullaniciya (1.de tanimladigimiz degere) kac saniye de ulasmak istedigini belirtmis oldugun alan oluyor
+
+> Tüm kullanıcıların sisteme girmesi ve testin sonlanması için geçen süredir. Örneğin; 1000 kullanıcı için ramp-up time 100s olarak ayarlanırsa server’a her bir saniyede 10 kullanıcı giriş yapmış olur. 50s olarak ayarlanırsa her saniyede sisteme 20 kullanıcı giriş yapmış olacaktır.
 
 3 - Scheduler Configuration alaninda testin kac kez veya ne kadar sureyle calistirmak isteediginizi belirttiginiz bir alan bulunuyor 
 
@@ -72,6 +76,23 @@ Artik islemlerimiz tamam requeest gonderip responslari alabilirz, responslari al
 - View Results Tree gibi…
 
 > bu repo icerisinde bulunan jmx uzantili dosya aslinda yukari da hazirlamis oldugumuz yapinin kaydedilmis halidir, sizde jmter'i calistirip open diyerek bu dosyayi acabilir dogrudan kullanabilirsiniz.
+
+> Ben suanda View Result Tree ekliyorum.
+
+[![](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/viewResultTree.png)]()
+
+Daha sonrasinda jmeter'imizi calistiralim. 
+
+[![](https://github.com/coderaction/jmeter-rest-api-load-test/blob/main/images/jmeterviewresulttreee.png)]()
+
+
+Yesil renkler requesti gondermis oldugunuz isteklerin basarili istekleri kirmizilar ise basarisiz istekleri nitelendirir.
+
+**Sampler Result:** Web server tarafindan dondurulen datalari gosteriyor. 
+**Request:** Bu sekmeyi tikladiginizda body ve header sekmeleri karsiniza cikiyor ve ayrica gondermis oldugunuz tum datayi da buradann gorebilirsiniz
+
+**Response Data:** Alinan verileri formatli olarak sizlere gosterir.
+
 
 ### Todos
  - Thread Group Listener tiplerini bir arkadas anlatabilirse sevinicem.
