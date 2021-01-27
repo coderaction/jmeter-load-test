@@ -76,6 +76,7 @@ Artik islemlerimiz tamam requeest gonderip responslari alabilirz, responslari al
 ### Todos
  - Thread Group Listener tiplerini bir arkadas anlatabilirse sevinicem.
  - Online bir endpoint bulunup (ibb endpointleri olur) jmx dosyasi duzenlenebilir
+ - Jmeter ile sonuclari nasil yorumlariz yazilmasi gerekiyor
 
 
 
